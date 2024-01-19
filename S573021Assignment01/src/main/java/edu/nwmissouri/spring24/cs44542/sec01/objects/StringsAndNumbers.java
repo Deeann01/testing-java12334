@@ -24,7 +24,7 @@ public class StringsAndNumbers{
         
         System.out.println("******************************STRING CLASS*************************************");
         System.out.println("The Sring is : "+stringExample);
-        System.out.println("The Length of the string is : "+ stringExample.length());
+        System.out.println("The Length of the string is:    "+ stringExample.length());
         char ch;
         ch = stringExample.charAt(5);
         System.out.println("The character at the 5th index is :"+ ch);
@@ -61,16 +61,15 @@ public class StringsAndNumbers{
         
         int firstIndex = searchText.indexOf("Java");
         int secondIndex = searchText.indexOf("Java", firstIndex + 1);
-        System.out.println("The index of the second occurrence of \"Java\": " + secondIndex);
+        System.out.println("The index of second occurrence of Java is:" + secondIndex);
 
         
         searchText = searchText.trim();
-        System.out.println("The  searchText after trimming the spaces at the beginning and end is: " + searchText + "\"");
+        System.out.println("The searchText after trimming the spaces at the beginning and end is: " + searchText + "\"");
         
         String messageA="hello";
         String messageB="HELLO";
         
-       
         boolean areEqualIgnoreCase = messageA.equalsIgnoreCase(messageB);
         System.out.println("The result of comparing messageA and messageB ignoring case sensitivity is: " + areEqualIgnoreCase);
 
