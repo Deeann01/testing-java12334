@@ -22,7 +22,7 @@ public class StringsAndNumbers{
         String stringExample ="Working with String Methods in Java!";
         
         
-        System.out.println("******************************STRING CLASS*************************************");
+        System.out.println("******************************STRING CLASS***************************************");
         System.out.println("The Sring is : "+stringExample);
         System.out.println("The Length of the string is:    "+ stringExample.length());
         char ch;
