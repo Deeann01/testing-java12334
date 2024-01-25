@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"edu.nwmissouri.spring24.cs44542.sec01.classes","l":"Book"},{"p":"edu.nwmissouri.spring24.cs44542.sec01.classes","l":"BookDriver"}];updateSearchResults();
