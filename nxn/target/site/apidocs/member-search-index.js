@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"edu.nwmissouri.spring24.cs44542.sec01.eng01.nxn","c":"Nxn","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"edu.nwmissouri.spring24.cs44542.sec01.eng01.nxn","c":"Nxn","l":"Nxn()","u":"%3Cinit%3E()"}];updateSearchResults();
